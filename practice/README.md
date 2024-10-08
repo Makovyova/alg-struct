@@ -10,4 +10,5 @@
 * [Quick Sort](Sorts/quickSort)
 * [Counting Sort](Sorts/countSort)
 и применить к своей задаче.
+* [Результат выполнения] (screen1.png)
 
