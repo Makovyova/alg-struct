@@ -1,0 +1,6 @@
+﻿  diam_rad_gr.cpp
+D:\C\1alg\alg_pr\alg_pr\diam_rad_gr.cpp(15,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C\1alg\alg_pr\alg_pr\diam_rad_gr.cpp(38,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C\1alg\alg_pr\alg_pr\diam_rad_gr.cpp(49,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+D:\C\1alg\alg_pr\alg_pr\diam_rad_gr.cpp(58,25): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  alg_struct.vcxproj -> D:\GitHub\alg\alg_\x64\Debug\alg_struct.exe
